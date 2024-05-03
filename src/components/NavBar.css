@@ -1,0 +1,65 @@
+h1{
+    font-size: 30px;
+    padding-right: 15px;
+}
+
+
+.contMenu {
+    background-color:rgb(166, 226, 166);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.navMenu {
+    background-color:rgb(166, 226, 166) ;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: end;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:rgb(166, 226, 166); 
+    padding:0px;
+    justify-content:center;
+}
+
+
+li {
+    background-color:rgb(166, 226, 166) ;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 2px 0px 2px;
+    height: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+
+a {
+    color:white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding: 2px;
+    text-align: center;
+}
+
+
+a:hover {
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
